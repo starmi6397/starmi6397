@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <h1 align="center">✨ 欢迎</h1>
+</p>
 
-<!--
-**starmi6397/starmi6397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://moe-counter.glitch.me/get/@:starmi6397?theme=rule34">
+<br>
 
-Here are some ideas to get you started:
+### 💞 我的社交统计
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub统计](https://stats.justsong.cn/api/github?username=starmi6397&theme=dracula&lang=zh-CN)](https://github.com/starmi6397)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=1289142181&theme=draculak&lang=zh-CN)](https://space.bilibili.com/1289142181)
+<br>
+
+
+### 🔥 GitHub 活跃度
+
+![starmi6397's GitHub stats](https://github-readme-stats.vercel.app/api?username=starmi6397&custom_title=starmi6397的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
