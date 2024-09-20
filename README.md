@@ -7,7 +7,7 @@
 
 ### 💞 我的社交统计
 
-[![GitHub统计](https://stats.justsong.cn/api/github?username=starmi6397&theme=dracula&lang=zh-CN)](https://github.com/starmi6397)
+[![GitHub统计](https://stats.justsong.cn/api/github?username=starmi6397&theme=dark&lang=zh-CN)](https://github.com/starmi6397)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=1289142181&theme=draculak&lang=zh-CN)](https://space.bilibili.com/1289142181)
 <br>
 
